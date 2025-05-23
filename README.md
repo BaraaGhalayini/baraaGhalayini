@@ -8,12 +8,12 @@
 
 # 👨‍💻 Full-Stack Developer | Laravel & Livewire
 
-## 🔧 Skills
+## Skills
 - **Backend:** Laravel, Livewire, PHP, REST APIs
 - **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, jQuery
 - **Other:**  Python, C
 
-#Highlighted Projects:
+## Highlighted Projects:
 🔹 Umrah Booking System – A complete platform for managing and booking Umrah trips.
 🔹 Real Estate Platform – A website for managing and listing real estate properties for sale and rent.
 🔹 Bus Reservation System – An online system for booking and managing land transportation services.
