@@ -20,6 +20,6 @@
 🔹 Project Management System – Enables tracking payments, progress percentages, and financial data analysis.
 🔹 Educational Platform for Children – Includes personality assessments, training courses, an online store, and a payment
 
-## 📫 للتواصل
+## 📫 connect
 - GitHub: [BaraaGhalayini](https://github.com/BaraaGhalayini)  
 - LinkedIn: [baraaghalayini](https://linkedin.com/in/baraaghalayini)
