@@ -2,37 +2,23 @@
 
 ## Hi there 👋
 
-**BaraaGhalayini/baraaGhalayini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 - Email: you@example.com  
 
 -->
 
 # 👨‍💻 Full-Stack Developer | Laravel & Livewire
 
-مرحبًا، أنا مطور PHP-Laravel مع 3 سنوات خبرة في تطوير الويب، وأعمل كذلك في اختبارات الأمان .
-
-## 🔧 المهارات
+## 🔧 Skills
 - **Backend:** Laravel, Livewire, PHP, REST APIs
 - **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, jQuery
-- **أخرى:**  Python, C
+- **Other:**  Python, C
 
-## 🧩 أبرز المشاريع
-- **نظام حجز العمرة:** منصة متكاملة لحجز رحلات العمرة.
-- **منصة عقارات:** موقع لإدارة عقارات للبيع والإيجار.
-- **نظام حجز باصات:** حجز وإدارة رحلات النقل البري.
-- **نظام إدارة مشاريع:** تحليل مالي، متابعة الدفعات، تقدم الإنجاز.
+#Highlighted Projects:
+🔹 Umrah Booking System – A complete platform for managing and booking Umrah trips.
+🔹 Real Estate Platform – A website for managing and listing real estate properties for sale and rent.
+🔹 Bus Reservation System – An online system for booking and managing land transportation services.
+🔹 Project Management System – Enables tracking payments, progress percentages, and financial data analysis.
+🔹 Educational Platform for Children – Includes personality assessments, training courses, an online store, and a payment
 
 ## 📫 للتواصل
 - GitHub: [BaraaGhalayini](https://github.com/BaraaGhalayini)  
