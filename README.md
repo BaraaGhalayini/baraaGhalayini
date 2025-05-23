@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Email: you@example.com  
+
 -->
 
-# 👨‍💻 Full-Stack Developer | Laravel & Livewire | Motion Graphics
+# 👨‍💻 Full-Stack Developer | Laravel & Livewire
 
 مرحبًا، أنا مطور PHP-Laravel مع 3 سنوات خبرة في تطوير الويب، وأعمل كذلك في اختبارات الأمان وتصميم الموشن جرافيك.
 
@@ -32,6 +35,5 @@ Here are some ideas to get you started:
 - **نظام إدارة مشاريع:** تحليل مالي، متابعة الدفعات، تقدم الإنجاز.
 
 ## 📫 للتواصل
-- Email: you@example.com  
 - GitHub: [BaraaGhalayini](https://github.com/BaraaGhalayini)  
 - LinkedIn: [baraaghalayini](https://linkedin.com/in/baraaghalayini)
